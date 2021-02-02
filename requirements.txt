@@ -1,4 +1,4 @@
 twython==3.0
 facepy==0.8
-django==1.5
+django==2.2.18
 django-celery==3.0.21
