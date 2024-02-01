@@ -2,3 +2,4 @@ twython==3.0
 facepy==0.8
 django==1.5
 django-celery==3.0.21
+celery>=4.4.0rc5 # not directly required, pinned by Snyk to avoid a vulnerability
